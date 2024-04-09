@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">hW_2_3m</string>
+    <string name="email">Email</string>
+    <string name="subject">Subject</string>
+    <string name="send">SEND</string>
+    <string name="message">Message</string>
+</resources>
